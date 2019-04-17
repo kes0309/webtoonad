@@ -2,3 +2,13 @@
 ||*.bp.blogspot.com/*.gif
 ##div.row
 ##div.col-md-12.col-15
+||i.imgur.com/JfWXwNF.gif
+||i.imgur.com/f44e536.gif
+||i.imgur.com/EGs3uSC.gif
+||3.bp.blogspot.com/-4yG__UNaa08/XI0MTsleXpI/AAAAAAAAACo/PYddCWbFALk1ukjdk01HpnmttgEgDqzigCLcBGAs/s1600/KR-272x259-20-AXJC8.png
+||4.bp.blogspot.com/-IO3xituKXm8/XC8Q7CO7i1I/AAAAAAAAA4Q/r4hvI9PItXoiGm-PhWZIXSyuhvTLARZ3gCLcBGAs/s1600/ad-main-6.png
+||4.bp.blogspot.com/-AS9GzOZTHLU/XC8Q0H4R6CI/AAAAAAAAA4M/9WO_ucQ83nAtr2GQVR6I0YweWpkptbShgCLcBGAs/s1600/ad-main-5.png
+||2.bp.blogspot.com/-5BaMt1yaCpk/XJNb3mlYL6I/AAAAAAAABFU/2STuENo8dmwVq3dn5oF9MG8WHkt_qm_LwCLcBGAs/s1600/aas.png
+||i.imgur.com/DY7cZ2R.png
+||3.bp.blogspot.com/-wTvIjXNOTHY/XC8Qw-YktJI/AAAAAAAAA38/XtJnk6_B2ysu5pauyx-iqTaGprnESiMMgCLcBGAs/s1600/ad-main-2.png
+||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
