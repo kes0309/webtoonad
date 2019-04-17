@@ -1,3 +1,4 @@
 ||*.media.tumblr.com/*.gif
 ||*.bp.blogspot.com/*.gif
 ##div.row
+##div.col-md-12.col-15
