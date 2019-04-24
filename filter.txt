@@ -14,3 +14,76 @@
 ||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
 ##.hd_pops
 ##div.col-md-12.col-15
+! 2019. 3. 18. https://1001ya.com
+||1001ya.com/img/banner/banner_promy2.gif$image
+||1001ya.com/img/banner/*.gif$image
+||torrentjang.com/img/banner/*.gif$image
+torrentjang.com/img/banner/*.gif
+
+! 2019. 4. 13. https://newtoki10.com
+newtoki10.com##.col-sm-9.col-md-9.col-15
+
+! 2019. 4. 17. https://adulti66.com
+||i.imgur.com/qFj6FRJ.gif$image
+||*.media.tumblr.com/*.gif$image
+||*.bp.blogspot.com/*.gif$image
+https://github.com/kes0309/webtoonad/blob/master/filter.txt
+
+! 2019. 4. 24. https://newtoki11.com
+newtoki11.com##.hd_pops
+newtoki11.com##div.col-md-12.col-15
+
+! 2019. 4. 24. https://www.torrentmap.com
+www.torrentmap.com###ad_board
+www.torrentmap.com###container > .banner > div
+www.torrentmap.com###container > .banner
+www.torrentmap.com###container_wr > .banner
+www.torrentmap.com##section#bo_v_file:nth-of-type(1)
+www.torrentmap.com###wrapper > .banner
+www.torrentmap.com##tr:nth-of-type(14) > td
+
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(3)
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(7)
+
+
+hodu8.com##.renewal17_bltl_basiclist > .renewal17_idxlist > .todays_free_third.clearfix
+
+wfwf4.com###content > .top-banner > .group > ul
+wfwf4.com##.webtoon-body > .top-banner > .group > ul
+
+jambo2.com###pvjosgtkmnqefixwhuryl > .post-wrap
+jambo2.com###vcwixsknjfermhgltuqodp > .post-wrap
+
+toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12 > .top_banner.clearfix.row > table > tbody
+toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
+
+
+wfwf5.com##.webtoon-body > .top-banner > .group > ul
+wfwf5.com##.webtoon-body > center > .group > .top-banner
+
+||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kakaotv.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tv.kakao.com,third-party
+@@||bidder.criteo.com^$domain=api.dable.io,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play-tv.kakao.com,third-party
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.v.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=movie.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sports.v.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.media.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.live.sports.media.daum.net,third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.sports.media.daum.net,third-party
+
+wfwf11.com##.webtoon-body > .top-banner
+wfwf12.com##.webtoon-body > .top-banner
+wfwf13.com##.webtoon-body > .top-banner
+wfwf14.com##.webtoon-body > .top-banner
+wfwf15.com##.webtoon-body > .top-banner
+wfwf11.com###content > .group:nth-of-type(3) > .top-banner
+wfwf12.com###content > .group:nth-of-type(3) > .top-banner
+wfwf13.com###content > .group:nth-of-type(3) > .top-banner
+wfwf14.com###content > .group:nth-of-type(3) > .top-banner
+wfwf15.com###content > .group:nth-of-type(3) > .top-banner
+wfwf??.com###content > .group:nth-of-type(3) > .top-banner
+wfwf??.com##.webtoon-body > .top-banner
