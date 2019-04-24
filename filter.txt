@@ -12,3 +12,5 @@
 ||i.imgur.com/DY7cZ2R.png
 ||3.bp.blogspot.com/-wTvIjXNOTHY/XC8Qw-YktJI/AAAAAAAAA38/XtJnk6_B2ysu5pauyx-iqTaGprnESiMMgCLcBGAs/s1600/ad-main-2.png
 ||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
+##.hd_pops
+##div.col-md-12.col-15
