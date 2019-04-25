@@ -87,3 +87,8 @@ wfwf14.com###content > .group:nth-of-type(3) > .top-banner
 wfwf15.com###content > .group:nth-of-type(3) > .top-banner
 wfwf??.com###content > .group:nth-of-type(3) > .top-banner
 wfwf??.com##.webtoon-body > .top-banner
+
+! 2019. 4. 25. https://wfwf13.com
+wfwf13.com##.top-banner
+wfwf14.com##.top-banner
+wfwf??.com##.top-banner
