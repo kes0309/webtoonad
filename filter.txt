@@ -92,3 +92,10 @@ wfwf??.com##.webtoon-body > .top-banner
 wfwf13.com##.top-banner
 wfwf14.com##.top-banner
 wfwf??.com##.top-banner
+
+! 2019. 4. 25. https://wfwf13.com
+wfwf13.com##.top-banner
+
+! 2019. 4. 25. https://wfwf14.com
+wfwf14.com##.top-banner
+##.top-banner
