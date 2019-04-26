@@ -23,7 +23,6 @@ newtoki10.com##.col-sm-9.col-md-9.col-15
 ||i.imgur.com/qFj6FRJ.gif$image
 ||*.media.tumblr.com/*.gif$image
 ||*.bp.blogspot.com/*.gif$image
-https://github.com/kes0309/webtoonad/blob/master/filter.txt
 
 ! 2019. 4. 24. https://newtoki11.com
 newtoki11.com##.hd_pops
