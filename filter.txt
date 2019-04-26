@@ -1,7 +1,5 @@
 ||*.media.tumblr.com/*.gif
 ||*.bp.blogspot.com/*.gif
-##div.row
-##div.col-md-12.col-15
 ||i.imgur.com/JfWXwNF.gif
 ||i.imgur.com/f44e536.gif
 ||i.imgur.com/EGs3uSC.gif
@@ -12,8 +10,6 @@
 ||i.imgur.com/DY7cZ2R.png
 ||3.bp.blogspot.com/-wTvIjXNOTHY/XC8Qw-YktJI/AAAAAAAAA38/XtJnk6_B2ysu5pauyx-iqTaGprnESiMMgCLcBGAs/s1600/ad-main-2.png
 ||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
-##.hd_pops
-##div.col-md-12.col-15
 ! 2019. 3. 18. https://1001ya.com
 ||1001ya.com/img/banner/banner_promy2.gif$image
 ||1001ya.com/img/banner/*.gif$image
@@ -98,4 +94,3 @@ wfwf13.com##.top-banner
 
 ! 2019. 4. 25. https://wfwf14.com
 wfwf14.com##.top-banner
-##.top-banner
