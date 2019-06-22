@@ -92,4 +92,6 @@ wfwf??.com##.top-banner
 wfwf13.com##.top-banner
 
 ! 2019. 4. 25. https://wfwf14.com
-wfwf14.com##.top-banner
+wfwf27.com##.top-banner
+
+||bam12co.com/img/banner/*.gif
