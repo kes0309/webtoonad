@@ -95,3 +95,8 @@ wfwf13.com##.top-banner
 wfwf27.com##.top-banner
 
 ||bam12co.com/img/banner/*.gif
+
+
+# 2019 08 16
+||www.19all.net/data/files/banner/*.jpg
+||www.19all.net/data/files/banner/*.gif
